@@ -12,7 +12,7 @@ Hi, I'm  [Maro de Melo](https://immerfallen.github.io/#home), a web developer st
 I am also a strategy game lover, classical music enthusiastic and a civil engineer sometimes.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200"/>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="300"/>
   
 
 
