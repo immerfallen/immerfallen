@@ -41,10 +41,9 @@ I am also a strategy game lover, classical music enthusiastic and a civil engine
                                                              📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Immerfallen&show_icons=true&theme=gotham" alt="immerfallen" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Immerfallen)](https://github.com/Immerfallen/github-readme-stats)
+  
   
   
 
-                                                             📈 My GitHub Languages
- 
+                                                           
  
