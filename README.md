@@ -9,7 +9,7 @@
 
 Hi, I'm  [Maro de Melo](https://immerfallen.github.io/#home), a web developer student based in Brazil. A curious mind trying to understand how software development works.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also a strategy game lover, classical music enthusiastic and a civil engineer sometimes.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200"/>
