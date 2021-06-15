@@ -38,6 +38,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br />
 
 
-                                                                       📈 My GitHub Stats
+                                                                 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Immerfallen&show_icons=true&theme=gotham" alt="immerfallen" />
