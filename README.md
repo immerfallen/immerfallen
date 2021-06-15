@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm  [Maro de Melo](https://immerfallen.github.io/#home), a web developer student based in Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm  [Maro de Melo](https://immerfallen.github.io/#home), a web developer student based in Brazil. A curious mind trying to understand how software development works.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
