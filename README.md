@@ -46,5 +46,4 @@ I am also a strategy game lover, classical music enthusiastic and a civil engine
 
                                                              📈 My GitHub Languages
  
-   <p align="center">  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immerfallen)](https://github.com/immerfallen/github-readme-stats)                                                                                                                                            </p>
-  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
