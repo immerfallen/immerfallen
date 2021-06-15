@@ -11,10 +11,8 @@ Hi, I'm  [Maro de Melo](https://immerfallen.github.io/#home), a web developer st
 
 I am also a strategy game lover, classical music enthusiastic and a civil engineer sometimes.
 
-<br/>
-<br/>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="500"/>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="400"/>
   
 
 
