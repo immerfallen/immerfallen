@@ -12,11 +12,13 @@ Hi, I'm  [Maro de Melo](https://immerfallen.github.io/#home), a web developer st
 I am also a strategy game lover, classical music enthusiastic and a civil engineer sometimes.
 
 
+
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="680" height="400"/>
   
 
 
-**Languages and Tools:**  
+## **Languages and Tools:**  
 
   Studying <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
@@ -35,12 +37,20 @@ I am also a strategy game lover, classical music enthusiastic and a civil engine
   Studying <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
   Studying <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  
+  
 
 
+## 📈 My GitHub Stats
 
-                                                             📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Immerfallen&show_icons=true&theme=gotham" alt="immerfallen" />
+<div>
+  <a href="https://github.com/immerfallen">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=immerfallen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immerfallen&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  
+  ![Snake animation](https://github.com/immerfallen/immerfallen/blob/output/github-contribution-grid-snake.svg)
   
   
   
