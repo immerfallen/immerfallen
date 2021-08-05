@@ -50,7 +50,7 @@ I am also a strategy game lover, classical music enthusiastic and a civil engine
 </div>
   
   
-  ![Snake animation](https://github.com/immerfallen/immerfallen/blob/output/github-contribution-grid-snake.svg)
+ 
   
   
   
