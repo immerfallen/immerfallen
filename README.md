@@ -38,8 +38,6 @@ I am also a strategy game lover, classical music enthusiastic and a civil engine
 
   Studying <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   
-  Studying <code><img height="20" src="https://www.kumulos.com/wp-content/uploads/2017/08/ionic-framework-app.jpg"></code>
-  
   Studying <code><img height="20" src="https://avatars.githubusercontent.com/u/3171503?s=200&v=4"></code>
   
   
