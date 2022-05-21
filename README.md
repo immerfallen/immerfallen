@@ -9,7 +9,6 @@
 
 Hi, I'm  [Maro de Melo](https://immerfallen.github.io/#home), a fullstack developer based in Brazil. A curious mind trying to understand how software development works.
 
-I am also a strategy game lover, classical music enthusiastic and a civil engineer sometimes.
 
 
 
