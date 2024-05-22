@@ -1,16 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/maro-de-melo-630b4821/">
-  <img align="left" alt="Maro's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
-<br />
-
-Hi, I'm  [Maro de Melo](https://immerfallen.github.io/#home), a fullstack developer based in Brazil. A curious mind trying to understand how software development works.
 
 
-
+Hi, I'm  Maro de Melo,  a fullstack developer based in Brazil. A curious mind trying to understand how software development works.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="680" height="400"/>
