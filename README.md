@@ -6,6 +6,8 @@ Hi, I'm  Maro de Melo,  a fullstack developer based in Brazil. A curious mind tr
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="680" height="400"/>
+
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4033500" style='border:none;'></iframe>
   
 
 
