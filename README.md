@@ -2,9 +2,7 @@
 
 
 
-Hi, I'm  Maro de Melo,  a fullstack developer based in Brazil. A curious mind trying to understand how software development works.
-
- <img align="right"  src="https://tryhackme-badges.s3.amazonaws.com/MarodeMelo.png" alt="Your Image Badge" />
+Hi, I'm  Maro de Melo,  a fullstack developer based in Brazil. A curious mind trying to understand how software development works. 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="680" height="400"/>
 
